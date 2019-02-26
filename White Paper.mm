@@ -175,7 +175,7 @@
 </node>
 </node>
 <node CREATED="1549893344487" ID="ID_17714334" MODIFIED="1549893348091" TEXT="Cr&#xe9;ation de richesse">
-<node CREATED="1549892802106" ID="ID_1441995816" MODIFIED="1549892816583" TEXT="Notion de revenu universel">
+<node CREATED="1549892802106" ID="ID_1441995816" MODIFIED="1551199465733" TEXT="Notion de revenu universel (UDI) : ">
 <node CREATED="1549892947738" ID="ID_549636522" MODIFIED="1549892951013" TEXT="pourquoi ?">
 <node CREATED="1551092167222" ID="ID_1204982613" MODIFIED="1551092241172" TEXT="Dans les soci&#xe9;t&#xe9;s actuelles tout le monde n&apos;a pas d&apos;emploi. Pourtant certaines personnes sans emploi sont utile &#xe0; la soci&#xe9;t&#xe9; civile, au travers des associations par exemple."/>
 </node>
