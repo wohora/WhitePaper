@@ -2,11 +2,11 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1549636113886" ID="ID_1052663954" MODIFIED="1549636119435" TEXT="White Paper">
 <node CREATED="1549884719386" ID="ID_799674202" MODIFIED="1549884722432" POSITION="right" TEXT="Abstract">
-<node CREATED="1551093567531" ID="ID_632152450" MODIFIED="1551093819998" TEXT="Nous pr&#xe9;sentons un mod&#xe8;le &#xe9;conomique permettant de faciliter tous les &#xe9;changes entre les individus, de les r&#xe9;compenser plus &#xe9;quitablement, tout en prenant soin de l&apos;environnement. Les m&#xe9;canismes mis en place et d&#xe9;taill&#xe9; plus loin, sont issu de certaines technologies comme Holochain. M&#xea;me si Holochain en est l&apos;infrastructure qui permet de pouvoir r&#xe9;aliser wohora, les r&#xe9;gles utilis&#xe9;es pour wohora n&apos;ont rien en commun avec les cryptomonnaies existantes."/>
+<node CREATED="1551093567531" ID="ID_632152450" MODIFIED="1551254983344" TEXT="Nous pr&#xe9;sentons un mod&#xe8;le &#xe9;conomique permettant de faciliter tous les &#xe9;changes entre les individus, de les r&#xe9;compenser plus &#xe9;quitablement, tout en prenant soin de l&apos;environnement. Les m&#xe9;canismes mis en place et d&#xe9;taill&#xe9; plus loin, sont issus de certaines technologies comme Holochain. M&#xea;me si Holochain en est l&apos;infrastructure qui permet de pouvoir r&#xe9;aliser wohora, les r&#xe9;gles utilis&#xe9;es pour wohora n&apos;ont rien en commun avec les cryptomonnaies existantes."/>
 </node>
 <node CREATED="1549636121958" ID="ID_518806289" MODIFIED="1551094891975" POSITION="right" TEXT="Introduction">
 <node CREATED="1549885435590" ID="ID_1785924932" MODIFIED="1551094770129" TEXT="De nos jours des technologies existent pour aller bien au del&#xe0; de ce que l&apos;&#xe9;conomie actuelle permet. Cette monnaie est issue du monde r&#xe9;el, bas&#xe9; sur le monde r&#xe9;el (non sp&#xe9;culative), elle utilise des m&#xe9;canismes du monde r&#xe9;el connus en biologie cellulaire, tel que la contamination ou la propagation (fissiparit&#xe9;). Elle permet d&apos;interagir aussi bien en macro-&#xe9;conomie, qu&apos;en micro-&#xe9;conomie. C&apos;est une monnaie Bottom / Up, en ce sens que c&apos;est la base (Bottom) qui pilote et qui alimente la partie haute (Up)."/>
-<node CREATED="1551094051110" ID="ID_1596785450" MODIFIED="1551094785641" TEXT="Wohora est une crytomonnaies, d&#xe9;centralis&#xe9;e bas&#xe9; sur l&apos;architecture holochain et autor&#xe9;gul&#xe9;e. Elle permet principalement 6 choses :">
+<node CREATED="1551094051110" ID="ID_1596785450" MODIFIED="1551255589430" TEXT="Wohora est une crytomonnaies, d&#xe9;centralis&#xe9;e bas&#xe9; sur l&apos;architecture holochain et autor&#xe9;gul&#xe9;e / autoadaptative. Elle permet principalement 6 choses :">
 <node CREATED="1551094150462" ID="ID_729935105" MODIFIED="1551094467534" TEXT="De valoriser nos r&#xe9;mun&#xe9;rations en fonction de notre engagement pour pr&#xe9;server l&apos;environnement, des &#xe9;cosyst&#xe8;mes ou de la soci&#xe9;t&#xe9; humaine."/>
 <node CREATED="1551094352302" ID="ID_1554020192" MODIFIED="1551094488693" TEXT="D&apos;&#xea;tre stable et &#xe9;gale partout dans le monde en s&apos;appuyant sur une valeur physique : le temps (que nous appellerons plus loin Unit&#xe9;)"/>
 <node CREATED="1551094496484" ID="ID_766648776" MODIFIED="1551094571445" TEXT="De consid&#xe9;rer l&apos;entreprise comme un outil pour l&apos;humanit&#xe9; et non un lieu de profit (permettant la mise en place de moyens de productions &#xe9;cologiques, permettant d&apos;augmenter les revenus individuels)"/>
@@ -27,9 +27,7 @@
 </node>
 <node CREATED="1551095193034" ID="ID_417210417" MODIFIED="1551095209333" TEXT="Vision globale du syst&#xe8;me">
 <node CREATED="1551095225074" ID="ID_1938885515" MODIFIED="1551095230966" TEXT="structure d&apos;un compte"/>
-<node CREATED="1551095231578" ID="ID_709240883" MODIFIED="1551095235829" TEXT="structure des &#xe9;changes">
-<node CREATED="1551095470795" ID="ID_1948820602" MODIFIED="1551095470795" TEXT=""/>
-</node>
+<node CREATED="1551095231578" ID="ID_709240883" MODIFIED="1551256551086" TEXT="structure des &#xe9;changes"/>
 </node>
 </node>
 <node CREATED="1549636128180" ID="ID_793792288" MODIFIED="1549636131833" POSITION="right" TEXT="Detail">
@@ -60,7 +58,9 @@
 <node CREATED="1549886241655" ID="ID_531690558" MODIFIED="1549886278588" TEXT="monnaie qualitative"/>
 </node>
 <node CREATED="1549892844346" ID="ID_1757157103" MODIFIED="1549892849062" TEXT="R&#xe9;f&#xe9;rence du monde r&#xe9;el">
-<node CREATED="1549892851474" ID="ID_1343041856" MODIFIED="1549892862014" TEXT="rendre la monnaie stable car bas&#xe9; sur une donn&#xe9;e physique"/>
+<node CREATED="1549892851474" ID="ID_1343041856" MODIFIED="1549892862014" TEXT="rendre la monnaie stable car bas&#xe9; sur une donn&#xe9;e physique">
+<node CREATED="1551260017417" ID="ID_1205363844" MODIFIED="1551260019505" TEXT="le temps"/>
+</node>
 <node CREATED="1549892865081" ID="ID_748224282" MODIFIED="1549892912774" TEXT="la monnaie &#xe9;quitable : valeur commune"/>
 </node>
 </node>
